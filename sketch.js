@@ -2,6 +2,7 @@ col = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  cursor(HAND, 32, 32)
 }
 
 function draw() {
