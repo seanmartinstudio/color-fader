@@ -1,5 +1,4 @@
-let col = 0;
-
+//initializes color variable values
 let rX = 0;
 let gX = 0;
 let bX = 0;
@@ -7,8 +6,6 @@ let bX = 0;
 let rY = 0;
 let gY = 0;
 let bY = 0;
-
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
